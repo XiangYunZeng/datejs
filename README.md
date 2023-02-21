@@ -3,15 +3,15 @@
 ## 安装
 
 ```
-yarn add @xuanmo/datejs
+yarn add @zxy-space/datejs
 or
-npm i @xuanmo/datejs
+npm i @zxy-space/datejs
 ```
 
 ## 使用
 
 ```js
-import datejs from '@xuanmo/datejs'
+import datejs from '@zxy-space/datejs'
 
 // 默认当前时间，格式：yyyy-MM-dd HH:mm:ss
 datejs().format()

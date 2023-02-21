@@ -1,10 +1,10 @@
 {
-  "name": "@zxy/datejs",
-  "version": "1.0.9",
+  "name": "@zxy-space/datejs",
+  "version": "0.0.2",
   "private": false,
   "author": {
-    "name": "Zxy-Space",
-    "email": "me@Zxy-Space.xin"
+    "name": "zxy-space",
+    "email": "me@zxy-space.xin"
   },
   "main": "dist/datejs.cjs.js",
   "module": "dist/datejs.esm.js",
