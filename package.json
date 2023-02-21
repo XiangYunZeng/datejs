@@ -1,10 +1,10 @@
 {
-  "name": "@xuanmo/datejs",
+  "name": "@zxy/datejs",
   "version": "1.0.9",
   "private": false,
   "author": {
-    "name": "xuanmo",
-    "email": "me@xuanmo.xin"
+    "name": "Zxy-Space",
+    "email": "me@Zxy-Space.xin"
   },
   "main": "dist/datejs.cjs.js",
   "module": "dist/datejs.esm.js",
@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xuanmos/datejs.git"
+    "url": "https://github.com/Zxy-Space/datejs.git"
   },
   "devDependencies": {
     "@babel/core": "^7.14.6",
